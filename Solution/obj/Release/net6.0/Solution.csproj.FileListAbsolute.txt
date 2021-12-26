@@ -1,0 +1,15 @@
+X:\_MASTER\Projects\_misc\misc\Solution\Solution\bin\Release\net6.0\Solution.exe
+X:\_MASTER\Projects\_misc\misc\Solution\Solution\bin\Release\net6.0\Solution.deps.json
+X:\_MASTER\Projects\_misc\misc\Solution\Solution\bin\Release\net6.0\Solution.runtimeconfig.json
+X:\_MASTER\Projects\_misc\misc\Solution\Solution\bin\Release\net6.0\Solution.dll
+X:\_MASTER\Projects\_misc\misc\Solution\Solution\bin\Release\net6.0\ref\Solution.dll
+X:\_MASTER\Projects\_misc\misc\Solution\Solution\bin\Release\net6.0\Solution.pdb
+X:\_MASTER\Projects\_misc\misc\Solution\Solution\obj\Release\net6.0\Solution.GeneratedMSBuildEditorConfig.editorconfig
+X:\_MASTER\Projects\_misc\misc\Solution\Solution\obj\Release\net6.0\Solution.AssemblyInfoInputs.cache
+X:\_MASTER\Projects\_misc\misc\Solution\Solution\obj\Release\net6.0\Solution.AssemblyInfo.cs
+X:\_MASTER\Projects\_misc\misc\Solution\Solution\obj\Release\net6.0\Solution.csproj.CoreCompileInputs.cache
+X:\_MASTER\Projects\_misc\misc\Solution\Solution\obj\Release\net6.0\Solution.dll
+X:\_MASTER\Projects\_misc\misc\Solution\Solution\obj\Release\net6.0\ref\Solution.dll
+X:\_MASTER\Projects\_misc\misc\Solution\Solution\obj\Release\net6.0\Solution.pdb
+X:\_MASTER\Projects\_misc\misc\Solution\Solution\obj\Release\net6.0\Solution.genruntimeconfig.cache
+X:\_MASTER\Projects\_misc\misc\Solution\Solution\obj\Release\net6.0\Solution.csproj.AssemblyReference.cache
